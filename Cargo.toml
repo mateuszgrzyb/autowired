@@ -10,9 +10,7 @@ inventory = "0.3.14"
 autowired_macros = { path = "./autowired_macros" }
 impls = "1.0.3"
 const_format = "0.2.32"
-frunk = "0.4.2"
-linkme = "0.3.20"
-static_assertions = "1.1.0"
+async-trait = "0.1.75"
 
 [dev-dependencies]
 tokio = { version = "1.35.1", features = ["full"] }
